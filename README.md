@@ -2,7 +2,7 @@
 
 👀 Interests: traveling and pop-dance.
 
-🌱 Research topics: Computer Vision (CV), Robotics, and self-driving car.
+🌱 Research topics: Computer Vision (CV), Robotics, and Self-Driving Vehicles.
 
 📫 ethentsao1998@gmail.com
 
