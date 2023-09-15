@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Ethen!
 
-👀 Interests: traveling and pop-dance.
+💁 MBTI: ENFJ
 
-🌱 Research topics: Computer Vision (CV), Robotics, and Self-Driving Vehicles.
+👀 Interests: traveling, nature, workout, pop-dance.
+
+🌱 Research topics: Machine Learning (ML), Computer Vision (CV), Robotics, and Self-Driving Vehicles.
 
 📫 ethentsao1998@gmail.com
 
