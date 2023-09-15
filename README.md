@@ -1,12 +1,25 @@
 ### Hi there 👋 I am Ethen!
 
-💁 MBTI: ENFJ
+💁 MBTI
+  * ENFJ
 
-👀 Interests: traveling, nature, workout, pop-dance, having deeper talk with people :)
+👀 Interests:
+  * Traveling
+  * Nature
+  * Workout
+  * Pop Dance
+  * NBA Games
+  * Having Deeper Talks with People 👯
 
-🌱 Research topics: Machine Learning (ML), Computer Vision (CV), Robotics, and Self-Driving Vehicles
+🌱 Research topics: 
+  * Machine Learning (ML)
+  * Computer Vision (CV)
+  * Robotics
+  * Self-Driving Vehicles
 
-🔭 Programming: C++, Python
+🔭 Programming
+  * C++
+  * Python
 
 📫 ethentsao1998@gmail.com
 
