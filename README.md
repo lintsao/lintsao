@@ -2,9 +2,10 @@
 
 💁 MBTI: ENFJ
 
-👀 Interests: traveling, nature, workout, pop-dance.
+👀 Interests: traveling, nature, workout, pop-dance, having deeper talk with people :)
 
 🌱 Research topics: Machine Learning (ML), Computer Vision (CV), Robotics, and Self-Driving Vehicles.
+🔭 Programming: C++, Python
 
 📫 ethentsao1998@gmail.com
 
