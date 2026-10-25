@@ -2,7 +2,7 @@
 
 💁 MBTI: ENFJ
 
-👀 Interests: Coffee / Traveling / Nature / Workout / Pop Dance / NBA Games / Having Deeper Talks with People 👯
+👀 Interests: Coffee / Traveling / Nature / Workout / Pop Dance / NBA Games / Having Deeper Talks with People
 
 🌱 Research topics: Machine Learning (ML) / Computer Vision (CV) / Robotics / Self-Driving Vehicles
 
